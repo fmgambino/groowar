@@ -44,4 +44,5 @@
 
 .langCheck{
     display: flex;
+    align-items: center;
 }
