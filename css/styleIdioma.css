@@ -43,7 +43,7 @@
 }
 
 .langCheck{
+    margin: 0px 5px 10px 5px;
     display: flex;
     align-items: center;
-    margin-left: 10px;
 }
