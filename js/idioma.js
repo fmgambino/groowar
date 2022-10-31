@@ -9,7 +9,7 @@ function idioma(){
         location.href="es/index.html";
     }else{
             
-        location.href="../index.html";
+        location.href="index.html";
     }
     */
 }
