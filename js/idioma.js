@@ -3,7 +3,7 @@ check.addEventListener('click', idioma);
 
 function idioma(){
     let id=check.ckecked;
-    if(id==true){
+    if(id==false){
         location.href="./es/index.html";
     }else{
             
