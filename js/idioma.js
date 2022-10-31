@@ -6,10 +6,12 @@ function idioma(){
     console.log(check.checked);
 
     if(id==true){
-        location.href="es/index.html";
+        location.href="en/index.html";
+        console.log("se va a ingles");
     }else{
             
         location.href="index.html";
+        console.log("Se va a espanish");
     }
     
 }
