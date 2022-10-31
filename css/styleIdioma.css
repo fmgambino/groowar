@@ -43,5 +43,5 @@
 }
 
 .langCheck{
-    padding-left: 15px;
+    display: flex;
 }
