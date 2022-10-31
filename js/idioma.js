@@ -9,4 +9,5 @@ function idioma(){
             
         location.href="../index.html";
     }
+    console.log(check.checked);
 }
