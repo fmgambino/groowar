@@ -3,11 +3,13 @@ check.addEventListener('click', idioma);
 
 function idioma(){
     let id=check.ckecked;
+    console.log(check.checked);
+    
     if(id==true){
         location.href="es/index.html";
     }else{
             
         location.href="../index.html";
     }
-    console.log(check.checked);
+    
 }
